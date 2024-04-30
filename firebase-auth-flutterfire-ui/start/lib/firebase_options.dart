@@ -34,16 +34,18 @@ class DefaultFirebaseOptions {
   }
 
   // TODO (codelab user): Replace with your Firebase credentials
-  // Generate this file with credentials with the FlutterFire CLI
+
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'YOUR API KEY',
-    appId: 'YOUR APP ID',
-    messagingSenderId: '',
-    projectId: 'flutterfire-ui-codelab',
-    authDomain: 'flutterfire-ui-codelab.firebaseapp.com',
-    storageBucket: 'flutterfire-ui-codelab.appspot.com',
-    measurementId: 'MEASUREMENT ID',
+    apiKey: 'AIzaSyCuvjzFWoXKaQD0b3qfh3GWXN8gPDhZZgM',
+    appId: '1:622376516423:web:62176957541eed3eea2a62',
+    messagingSenderId: '622376516423',
+    projectId: 'possystem-1ac98',
+    authDomain: 'possystem-1ac98.firebaseapp.com',
+    storageBucket: 'possystem-1ac98.appspot.com',
+    measurementId: 'G-55SE02KLTG',
   );
+
+  // Generate this file with credentials with the FlutterFire CLI
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'YOUR API KEY',
